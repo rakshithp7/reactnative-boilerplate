@@ -4,6 +4,7 @@ This boilerplate includes the following:
 
 - Expo
 - React Native
+- React Navigation
 - Redux Toolkit
 - tailwindcss
 
